@@ -1,5 +1,5 @@
 import Image from "next/image";
 
 export default function Home() {
-  return <div>Hello spotyfy</div>;
+  return <div className="text-green-500">Main content</div>;
 }
